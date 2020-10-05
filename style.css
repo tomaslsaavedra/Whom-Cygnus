@@ -9166,3 +9166,21 @@ section:after {
     }
 
 }
+
+/* custom */
+
+@media (max-width: 600px) {
+    .white {
+      color: white;
+    }
+  }
+@media (max-width: 600px) {
+    .no {
+      visibility: hidden;
+    }
+  }
+@media (max-width: 600px) {
+    .margin {
+      padding-top: 10px;
+    }
+  }
