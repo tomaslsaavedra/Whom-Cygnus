@@ -269,8 +269,8 @@
 .icon-flickr-circled:before { content: "\f304"; } /* '\f304' */
 .icon-vimeo:before { content: "\f306"; } /* '\f306' */
 .icon-vimeo-circled:before { content: "\f307"; } /* '\f307' */
-.icon-twitter:before { content: "\f309"; } /* '\f309' */
-.icon-twitter-circled:before { content: "\f30a"; } /* '\f30a' */
+.icon-:before { content: "\f309"; } /* '\f309' */
+.icon--circled:before { content: "\f30a"; } /* '\f30a' */
 .icon-facebook:before { content: "\f30c"; } /* '\f30c' */
 .icon-facebook-circled:before { content: "\f30d"; } /* '\f30d' */
 .icon-facebook-squared:before { content: "\f30e"; } /* '\f30e' */
